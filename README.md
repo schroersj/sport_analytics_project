@@ -27,4 +27,5 @@ If interested, implement a simple prediction model using machine learning to for
 Add user authentication to allow users to save personalized views or preferences on the dashboard.
 
 
+
 **This project was recommended by ChapGPT 3.5
